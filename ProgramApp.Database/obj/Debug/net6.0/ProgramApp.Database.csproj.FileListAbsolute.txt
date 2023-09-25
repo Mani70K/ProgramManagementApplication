@@ -1,0 +1,17 @@
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Database.deps.json
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Database.runtimeconfig.json
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Database.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Database.pdb
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Templates.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\bin\Debug\net6.0\ProgramApp.Templates.pdb
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.csproj.AssemblyReference.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.AssemblyInfoInputs.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.AssemblyInfo.cs
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.csproj.CoreCompileInputs.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.csproj.CopyComplete
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\refint\ProgramApp.Database.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.pdb
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ProgramApp.Database.genruntimeconfig.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Database\obj\Debug\net6.0\ref\ProgramApp.Database.dll

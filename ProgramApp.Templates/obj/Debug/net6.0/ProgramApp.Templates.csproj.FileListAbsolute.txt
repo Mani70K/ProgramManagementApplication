@@ -1,0 +1,14 @@
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\bin\Debug\net6.0\ProgramApp.Templates.deps.json
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\bin\Debug\net6.0\ProgramApp.Templates.runtimeconfig.json
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\bin\Debug\net6.0\ProgramApp.Templates.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\bin\Debug\net6.0\ProgramApp.Templates.pdb
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.csproj.AssemblyReference.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.AssemblyInfoInputs.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.AssemblyInfo.cs
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.csproj.CoreCompileInputs.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\refint\ProgramApp.Templates.dll
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.pdb
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ProgramApp.Templates.genruntimeconfig.cache
+C:\Users\kmani\OneDrive\Desktop\DotnetTask\ProgramManagementApplication\ProgramApp.Templates\obj\Debug\net6.0\ref\ProgramApp.Templates.dll
